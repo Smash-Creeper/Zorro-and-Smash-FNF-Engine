@@ -1,0 +1,5 @@
+//[<Song name, string>, <BPM, real>, <BGM Path, string (path)>, <VOICES Path, string (path)>, <CHART Path, string (path)>, <Icon, real>, <Difficulties, array>]
+//[     Argument 0    , Argument 1 ,        Argument 2        ,          Argument 3         ,         Argument 4         ,  Argument 5 ,      Argument 6      ]
+["sans the skenana",145,"assets\\audio\\sans the skenana\\Bgm.ogg","assets\\audio\\sans the skenana\\Voices.ogg","",25,["sans"]]
+["termination",222,"assets\\audio\\termination\\Bgm.ogg","assets\\audio\\termination\\Voices.ogg","",28,["very hard"]]
+["interlope",154,"assets\\audio\\interlope\\Bgm.ogg","assets\\audio\\interlope\\Voices.ogg","",-1,["???"]]
