@@ -1,3 +1,4 @@
+//sentry_init("https://085f0b465a9a4286b15b4cf7998229cb@o1267233.ingest.sentry.io/6453335");
 instance_deactivate_all(1);
 if variable_global_exists("settings") {
 	//Cool menu resuming xD
@@ -15,6 +16,8 @@ if variable_global_exists("settings") {
 }
 
 //Some cool local variables
+
+title_jokes(0,0);
 randomize();
 wfalpha= 0;
 audio= -1;
@@ -24,7 +27,7 @@ text[1]= text[0]+"\npresents";
 text[2]= "a recreation of";
 text[3]= text[2]+"\nninjamuffin99, PhantomArcade,\nkawaisprite and evilsk8ers\ngame";
 text[4]= "";
-var tempj= irandom_range(0,56);
+var tempj= irandom_range(0,array_length(joke)-1);
 text[5]= title_jokes(tempj,1);
 text[6]= title_jokes(tempj,0);
 text[7]= "friday";

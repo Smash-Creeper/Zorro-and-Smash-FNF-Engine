@@ -2,7 +2,8 @@
 bpm = 100
 notespeed = 2
 notecount = 4
-chartcount = 2
+playerchartcount = 1
+cpuchartcount = 1
 
 ///NOTES AND SECTIONS
 sections = 1

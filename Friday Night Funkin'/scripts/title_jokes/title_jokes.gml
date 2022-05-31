@@ -56,6 +56,8 @@ function title_jokes(jokeNum, leftSideOnly){
 	joke[54]= "im inside your\nhouse";
 	joke[55]= "there is no joke\ntake of your clothe";
 	joke[56]= "man\n";
+	joke[57]= "papyrus, i burnt the water\nsans how the fuck did you burn the water";
+	joke[58]= "sentry standoff\nsupremacy";
 	var chosen= joke[jokeNum];
 	if leftSideOnly chosen= string_delete(chosen,string_pos("\n",chosen),string_length(chosen));
 	return chosen;
