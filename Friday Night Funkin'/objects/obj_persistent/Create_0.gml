@@ -1,4 +1,3 @@
-//sentry_init("https://085f0b465a9a4286b15b4cf7998229cb@o1267233.ingest.sentry.io/6453335")
 destroy= 0;
 if instance_number(obj_persistent)> 1 {
 	global.perstemp= id;
