@@ -16,7 +16,11 @@
     {"instances":[
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
         {"properties":[],"isDnd":false,"objectId":{"name":"objcharter","path":"objects/objcharter/objcharter.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_2B2FCA32","tags":[],"resourceType":"GMRInstance",},
+=======
+        {"properties":[],"isDnd":false,"objectId":{"name":"objchart_editor","path":"objects/objchart_editor/objchart_editor.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_2DC17BE5","tags":[],"resourceType":"GMRInstance",},
+>>>>>>> parent of 89557c4 (Hola)
 =======
         {"properties":[],"isDnd":false,"objectId":{"name":"objchart_editor","path":"objects/objchart_editor/objchart_editor.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":0.0,"resourceVersion":"1.0","name":"inst_2DC17BE5","tags":[],"resourceType":"GMRInstance",},
 >>>>>>> parent of 89557c4 (Hola)
@@ -32,7 +36,11 @@
   "instanceCreationOrder": [
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"name":"inst_2B2FCA32","path":"rooms/rm_editor/rm_editor.yy",},
+=======
+    {"name":"inst_2DC17BE5","path":"rooms/rm_editor/rm_editor.yy",},
+>>>>>>> parent of 89557c4 (Hola)
 =======
     {"name":"inst_2DC17BE5","path":"rooms/rm_editor/rm_editor.yy",},
 >>>>>>> parent of 89557c4 (Hola)
