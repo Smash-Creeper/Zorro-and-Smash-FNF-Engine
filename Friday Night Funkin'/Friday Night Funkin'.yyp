@@ -137,10 +137,10 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"rm_init","path":"rooms/rm_init/rm_init.yy",},},
-    {"roomId":{"name":"rm_editor","path":"rooms/rm_editor/rm_editor.yy",},},
     {"roomId":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"roomId":{"name":"rm_freeplay","path":"rooms/rm_freeplay/rm_freeplay.yy",},},
     {"roomId":{"name":"rm_options","path":"rooms/rm_options/rm_options.yy",},},
+    {"roomId":{"name":"rm_editor","path":"rooms/rm_editor/rm_editor.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":0,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
